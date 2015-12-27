@@ -1,11 +1,10 @@
 Expression Parser written in C++
+=================================
 
-Author: Nick Gammon
-Date:   14 September 2004
-
-Module to parse arithmetic expressions. For details see:
-
-http://www.gammon.com.au/forum/?id=4649
+I like this code of Bottomup Parser.This is really easy to implement.
+so i shared it.Shift-reduce parsing uses two unique steps for bottom-up parsing. 
+These steps are known as shift-step and reduce-step. 
+ValeryHirtz - Programmer at http://egoseoservices.com
 
 
 (C) Copyright Nick Gammon 2004. Permission to copy, use, modify, sell and
